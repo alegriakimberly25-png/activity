@@ -274,7 +274,7 @@ const styles = StyleSheet.create({
   },
 
   deleteText: {
-    color: '#DC2626',
+    color: '#ac2323',
     fontWeight: 'bold',
     fontSize: 12,
   },
